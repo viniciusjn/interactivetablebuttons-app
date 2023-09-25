@@ -81,40 +81,6 @@ body {
     max-width: 100px;
 }
 
-.header nav ul {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.header nav a {
-    display: block;
-    padding: 10px;
-    color: white;
-    font-size: 1.125em;
-    background-color: rgba(0, 0, 0, .1);
-    border-radius: 5px;
-    transition: 0.3s;
-}
-
-.header nav a:hover {
-    background-color: rgba(0, 0, 0, .5);
-}
-
-.header li + li {
-    margin-left: 30px;
-}
-
-@media (max-width: 760px) {
-    .header > .logo {
-        margin-right: 10px;
-    }
-
-    .header li + li {
-        margin-left: 10px;
-    }
-}
-
-
 /* ARTICLE----------------------------------------------------------> */
 .article {
     margin: 25px auto;
