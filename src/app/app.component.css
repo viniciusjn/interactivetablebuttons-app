@@ -149,10 +149,15 @@ td, th {
     box-shadow: 0px 5px 15px -3px rgba(115,115,115,1);
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1015px) {
+    .article {
+        margin: 15px 10px;
+    }
+}
+
+@media (max-width: 514px) {
     .article {
         display: block;
-        margin: 15px 10px;
     }
 }
 
@@ -161,11 +166,18 @@ td, th {
     max-width: 200px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1015px) {
+    .article-img {
+        margin: 3px 5px;
+    }
+}
+
+@media (max-width: 514px) {
     .article-img {
         margin: 3px auto;
     }
 }
+
 
 .tabela-periodica {
     margin: 25px auto;
@@ -178,7 +190,7 @@ td, th {
     box-shadow: 0px 5px 15px -3px rgba(115,115,115,1);
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1015px) {
     .tabela-periodica {
         margin: 15px 10px;
     }
