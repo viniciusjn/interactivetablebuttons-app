@@ -13,13 +13,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 
 /* GERAL------------------------------------------------------------> */
-li {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-}
 
 img {
     display: block;
@@ -41,20 +34,6 @@ body {
     min-height: calc(100vh - 300px);
     max-width: 1000px;
 }
-
-table {
-    width: 100%;
-}
-  
-.mat-mdc-form-field {
-    font-size: 14px;
-    width: 100%;
-}
-  
-td, th {
-    width: 25%;
-}
-
 
 /* TITLE------------------------------------------------------------> */
 .title-table {
