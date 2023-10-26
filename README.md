@@ -25,10 +25,16 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### -> pré-requisitos
 
-Você necessita ter o [Node.js](https://nodejs.org/en) instalado na sua máquina, para verificar se já possui, abra o terminal e digite:
+É necessário possuir o [Node.js](https://nodejs.org/en) instalado na sua máquina, para verificar se já o possui, abra o terminal e digite:
 
 ```
 npm --version
+```
+
+Também é fundamental ter o [Angular - CLI](https://angular.io/cli) instalado, caso não o tenha, digite o comando abaixo e o terá:
+
+```
+npm install -g @angular/cli
 ```
 
 ### -> instalação
