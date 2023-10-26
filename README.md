@@ -39,7 +39,7 @@ npm install -g @angular/cli
 
 ### -> instalação
 
-Com o Node instalado, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
+Com o Node e Angular instalados, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
 
 ```
 git clone https://github.com/viniciusjn/interactivetablebuttons-app.git
